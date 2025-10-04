@@ -21,8 +21,6 @@ coverage/
 .npm
 
 # dotenv environment variables file
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -33,7 +31,6 @@ build/
 *.tsbuildinfo
 
 # IDEs and editors
-.vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
@@ -43,3 +40,4 @@ build/
 
 # Optional: MongoDB dump files
 dump/
+config.bat
